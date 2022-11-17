@@ -20,7 +20,9 @@ Close SJ2 if U7 isn't installed. SJ2 HAS to be open when U7 is installed.
 Close SJ1 to run the optional 68882 off the 16MHz accelerator clock.
 Install an oscillator and open SJ1 to run the 68882 at any speed.
 The original design used 25MHz which has been verified to work on the clone as well.
-  
+
+I have not found a socket that allows secure installation over the PLCC CPU in the Macintosh Classic.
+Proper operation has been tested in the Macintosh Plus and SE but so far not on the Classic.
   
 # Board Files
   
